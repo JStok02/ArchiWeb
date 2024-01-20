@@ -1,0 +1,74 @@
+@font-face { 
+  font-family: "Inter";
+  src: url("fonts/Inter/InterSemiBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face { 
+  font-family: "Inter";
+  src: url("fonts/Inter/InterBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face { 
+  font-family: "Inter";
+  src: url("fonts/Inter/InterExtraLight.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 200;
+}
+
+@font-face { 
+  font-family: "Barlow";
+  src: url("fonts/barlow/Barlow-Medium.otf") format("opentype");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face { 
+  font-family: "Barlow";
+  src: url("fonts/barlow/Barlow-Regular.otf") format("opentype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face { 
+  font-family: "Barlow";
+  src: url("fonts/barlow/Barlow-SemiBold.otf") format("opentype");
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face { 
+  font-family: "PFD";
+  src: url("fonts/playfairdisplay/PlayfairDisplay-Black.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 900;
+}
+@font-face { 
+  font-family: "PFD";
+  src: url("fonts/playfairdisplay/PlayfairDisplay-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face { 
+  font-family: "PFD";
+  src: url("fonts/playfairdisplay/PlayfairDisplay-ExtraBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 800;
+}
+@font-face { 
+  font-family: "PFD";
+  src: url("fonts/playfairdisplay/PlayfairDisplay-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face { 
+  font-family: "PFD";
+  src: url("fonts/playfairdisplay/PlayfairDisplay-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face { 
+  font-family: "PFD";
+  src: url("fonts/playfairdisplay/PlayfairDisplay-SemiBold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 600;
+}
